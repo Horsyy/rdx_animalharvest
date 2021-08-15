@@ -19,9 +19,9 @@ Coming Soon
 
 ## How To Install
 
-1. Put rdx_animalharvest into server-data/resources/
-2. Open server.cfg and add after the redm_extended resources: ensure rdx_animalharvest
-3. Add LRP_Notify to your resources too: ensure LRP_Notify
+1. Put ```rdx_animalharvest``` into server-data/resources/
+2. Open ```server.cfg``` and add after the redm_extended resources: ensure ```rdx_animalharvest```
+3. Add LRP_Notify to your resources too: ```ensure LRP_Notify```
 
 ## Contributions
 
